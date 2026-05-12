@@ -1,4 +1,4 @@
-# Sintaxe Básica e Variáveis em Go
+# Sintaxe Básica e Variáveis em GO
 
 ## Estrutura Básica de um Programa
 
